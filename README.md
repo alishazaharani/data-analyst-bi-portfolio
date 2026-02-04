@@ -57,6 +57,18 @@
 
 🔗 Repository: https://github.com/alishazaharani/sql-data-analysis-project.git
 
+### 📊 Jennie Store Merchandise Sales Analysis (2025)  
+**Tools:** PostgreSQL, SQL, Spreadsheet  
+
+**Insight:**  
+- Calculated **total monthly revenue** to identify the highest-earning months (e.g., April 2025 = Rp21.250.000)  
+- Analyzed **monthly units sold** to observe fan purchase trends throughout the year  
+- Evaluated **average product price per month** to understand which products were most popular by price  
+- Determined **best-selling product categories per month** using RANK to track changing fan preferences  
+- Derived **actionable insights** for potential sales strategies, inventory planning, and promotional focus  
+
+🔗 Repository: https://github.com/alishazaharani/Jennie-merch-sales-analysis.git
+
 ---
 
 ## 🎓 Education
