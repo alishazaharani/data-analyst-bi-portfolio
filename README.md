@@ -69,10 +69,23 @@
 
 🔗 Repository: https://github.com/alishazaharani/Jennie-merch-sales-analysis.git
 
+### 🦖 Dino Insights – Dinosaur Data Exploration & Visualization 
+**Tools:** Python, Power BI, DAX
+
+**Insight:**
+- Performed data cleaning in Python to ensure consistency and readiness for analysis
+- Calculated total dinosaurs per diet, period, and locomotion type to understand population distribution
+- Analyzed average size metrics (length, height, weight) to observe biological characteristics
+- Evaluated distribution of dinosaurs across geological periods and locations using interactive maps
+- Determined patterns in diet preferences and locomotion types per period to identify biological trends
+- Derived actionable insights for educational purposes, data storytelling, and interactive data exploration
+
+🔗 Repository: https://github.com/alishazaharani/dinosaur-analytics.git
+
 ---
 
 ## 🎓 Education
-- UAG University **(S.Kom. Information Systems)** — *5th Semester*
+- Ary Ginanjar University **(S.Kom. Information Systems)** — *6th Semester*
 - Relevant Coursework: Data Analytics, Database Systems, Business Intelligence, UI/UX Fundamentals
 
 ---
