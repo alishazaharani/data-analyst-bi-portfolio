@@ -46,6 +46,17 @@
 
 🔗 Repository: https://github.com/alishazaharani/Himalayan-expeditions-analysis.git
 
+### 📊 Sales Data Analysis using SQL
+**Tools:** PostgreSQL, SQL, Spreadsheet   
+
+**Insight:**  
+- Identified **top-selling products** and their contribution to overall revenue  
+- Analyzed **sales trends over time** to spot seasonality and peak periods  
+- Evaluated **transaction-level patterns** to understand customer purchasing behavior  
+- Derived **actionable insights** to support data-driven business decisions  
+
+🔗 Repository: https://github.com/alishazaharani/sql-data-analysis-project.git
+
 ---
 
 ## 🎓 Education
