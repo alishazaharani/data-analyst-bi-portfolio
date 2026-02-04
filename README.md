@@ -70,16 +70,6 @@
 - English — Intermediate (Reading, Writing, Technical Communication)
 
 ---
-
-## 💼 Experience
-**Creative Mentor (UI/UX & Design Tools)**  
-- Guided participants in implementing UI designs using Figma, enhancing understanding of structured design workflows.  
-- Analyzed design requirements and translated them into clear visual and functional solutions.  
-- Supported digital content creation and documentation for learning materials and design assets.  
-- Collaborated with teams to ensure consistency between design concepts and implementation.  
-- Developed communication, analytical thinking, and problem-solving skills through mentoring and project coordination.  
-
----
 ## 🤝 Let’s Connect
 [![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:alishazaharani@email.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alishazaharani/)
